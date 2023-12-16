@@ -1,16 +1,38 @@
-### Hi there 👋
+## Hi, I'm Pandega Abyan 👋
 
-<!--
-**pandegaabyan/pandegaabyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Software Engineer | 🤖 Machine Learning Enthusiast | 🎓 Graduate Student
 
-Here are some ideas to get you started:
+Hello, I'm Pandega Abyan Zumarsyah, a seasoned software engineer with experience in various programming languages and frameworks related to web development, Android development, and machine learning. 
+Currently, I'm pursuing a Master's in Information Technology at Universitas Gadjah Mada and conducting research on Medical Image Processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Skills 💻
+
+- **Fields:**
+  - ★★★★★ Web Development
+  - ★★★★★ Machine Learning / Deep Learning
+  - ★★★★☆ Image Processing
+  - ★★★☆☆ Android Development
+
+- **Languages:**
+  - ★★★★★ SQL
+  - ★★★★★ Python
+  - ★★★★★ JavaScript/Typescript
+  - ★★★★☆ Go
+  - ★★★☆☆ C/C++
+  - ★★★☆☆ Kotlin
+  - ★★★☆☆ MATLAB
+
+- **Frameworks:**
+  - ★★★★★ PyTorch
+  - ★★★★★ React
+  - ★★★★☆ TensorFlow
+  - ★★★★☆ Express
+  - ★★★★☆ Gin
+  - ★★★★☆ Flask
+  - ★★★☆☆ Django
+
+### Contact 📬
+
+- Email: [pandegaabyanzumarsyah@mail.ugm.ac.id](mailto:pandegaabyanzumarsyah@mail.ugm.ac.id)
+- LinkedIn: [Pandega Abyan Zumarsyah](https://www.linkedin.com/in/pandega-abyan-zumarsyah-43910a152/)
+- ResearchGate: [Pandega Zumarsyah](https://www.researchgate.net/profile/Pandega-Zumarsyah)
